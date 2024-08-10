@@ -1,9 +1,11 @@
 ---Projeto em desenvolvimento AluGames---
 
       Autores
-
-FrontEnd --- BackEnd
- Bianca   |  Giovani
+FrontEnd
+Bianca  
  
+BackEnd
+Giovani
+
   PO
-Caique 
+Caique
