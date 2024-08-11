@@ -1,4 +1,3 @@
-
 function alterarStatus(id) {
     // alterarStatus()
     let jogoClicado = document.getElementById(`game-${id}`)
@@ -31,22 +30,3 @@ function alterarStatus(id) {
         botao.classList.add('dashboard__item__button--return')
     }
 }
-
-// function alterarStatus() {
-//     let botaoDevolver = document.querySelector('game-3')
-//     if (botaoDevolver.classList.contains('dashboard__item__button--return')) {
-//         imagem.classList.remove('dashboard__item__img--rented')
-//         botao.classList.remove('dashboard__item__button--return')
-//     }
-// }
-
-//     if (id == jogoAlugado) {
-//         return alert('Jogo alugado')
-//     }
-//     if (jogoAlugado) {
-//         return alert('Ja existe um jogo alugado')
-//     }
-//     alterandotexto()
-//     mudarCor = document.querySelector('a').classList.add('dashboard__item__button--return')
-//     jogoAlugado = id
-// }
