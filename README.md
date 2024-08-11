@@ -1,11 +1,11 @@
 ---Projeto em desenvolvimento AluGames---
 
      Autores 
-#h1 FrontEnd
+FrontEnd
 **Bianca**  
  
 BackEnd
 **Giovani**
 
-  PO
+PO
 **Caique**
