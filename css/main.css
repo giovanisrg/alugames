@@ -64,7 +64,7 @@
     border-style: solid;
     border-color: #00F4BF;
 
-    padding: 3rem;
+    padding: 3rem; 
     width: 100%;
 }
 
@@ -85,7 +85,7 @@
 .dashboard__item__img {
     box-shadow: 0px 0px 24px 8px rgba(24, 118, 232, 0.25);
 
-    margin-bottom: 1rem;
+    margin-bottom: 1rem ;
 }
 
 .dashboard__item__img--rented {
