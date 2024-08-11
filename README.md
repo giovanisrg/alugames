@@ -8,6 +8,12 @@
 
 <br>
 
+<h3>Objetivos do Site </h3>
+
+Alugar jogos de tabuleiro no conforto ed sua casa!
+
+<br>
+
      Autores 🚀 
 
 <br>
