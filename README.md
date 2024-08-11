@@ -1,11 +1,19 @@
----Projeto em desenvolvimento AluGames---
+# ---Projeto em desenvolvimento AluGames---
 
-      Autores
-FrontEnd
-Bianca  
+<img src="alugames.png" alt="alugames">
+
+
+<br><br>
+
+     Autores 🚀 
+
+<br>
+
+FrontEnd 
+**Bianca**  
  
 BackEnd
-Giovani
+**Giovani**
 
-  PO
-Caique
+PO
+**Caique**
