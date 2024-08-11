@@ -3,8 +3,6 @@
 <img src="alugames.png" alt="alugames">
 
 
-<br><br>
-
      Autores 🚀 
 
 <br>
