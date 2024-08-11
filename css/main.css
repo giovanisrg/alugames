@@ -1,6 +1,39 @@
 @import url(_reset.css);
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@600;700&display=swap');
 
+.menunav {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+#menu ul { 
+    padding:30px;
+    margin:0px 0px 30px 0px;
+    background-color:rgb(43, 52, 110);
+    list-style:none;
+    width: 100%;
+    
+}
+  
+    #menu ul li { 
+    display: inline;
+    
+}
+
+#menu ul li a { 
+    padding: 2px 10px; 
+    display: inline-block; /* visual do link */ 
+    background-color: rgb(43, 52, 110); 
+    color: #f6f1ff; 
+    text-decoration: none; 
+     
+    font-size: 30px;
+}
+
+
 .body {
     color: #FFFFFF;
 
@@ -11,15 +44,11 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-    padding: 2rem;
+    
 }
 
 @media screen and (min-width: 1440px) {
-    .body {
+    .main {
         padding: 2rem calc((100vw - 1086px)/2);
     }
 }
@@ -52,6 +81,14 @@
     margin-bottom: 2.5rem;
 }
 
+.page-subtitulo {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+
+    margin-bottom: 2.5rem;
+}
+
 .page-title__emphasis {
     color: #505EFF;
 }
@@ -66,6 +103,11 @@
 
     padding: 3rem; 
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    
 }
 
 .dashboard__items {
@@ -135,3 +177,53 @@
     margin-right: 33px;
     align-self: flex-end;
 }
+
+.dashboard__item__name__contato {
+    font-weight: 600;
+    font-size: 2rem;
+    padding: 0rem 19.9rem;
+    
+    margin: 0rem 0 3rem;
+    
+}
+
+form {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  input,
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+  }
+  button {
+    background-color: #0faae7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #004bbb;
+  }
+
+  
+
+  .nome {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+
+
+    
