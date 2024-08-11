@@ -10,7 +10,7 @@
 
 <h3>Objetivos do Site </h3>
 
-Alugar jogos de tabuleiro no conforto ed sua casa!
+Alugar jogos de tabuleiro no conforto de sua casa!
 
 <br>
 
