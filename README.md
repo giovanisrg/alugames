@@ -1,7 +1,7 @@
 ---Projeto em desenvolvimento AluGames---
 
-     #h1 Autores 
-FrontEnd
+     Autores 
+#h1 FrontEnd
 **Bianca**  
  
 BackEnd
