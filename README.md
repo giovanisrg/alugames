@@ -6,8 +6,7 @@
 <br><h2> Imagens do site </h2><br>
 <img src="telagif.gif" width="636" height="428" alt="alugames">
 
-
-<br><br>
+<br>
 
      Autores 🚀 
 
